@@ -23,8 +23,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Biograhy"
-    url: /biograhy/
+  - title: "CV"
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
