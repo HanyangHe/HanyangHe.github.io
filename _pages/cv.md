@@ -69,16 +69,16 @@ Teaching
 
 Selected honors and prizes
 ======
-Outstanding University Graduates in 2021                                                                                                                04/2021
-Excellent Master Degree Thesis of Sichuan University(https://drive.google.com/drive/folders/1bmexQnCn0x8lkPwVd6ld_sWumBWk09QM?usp=sharing)              06/2021
-National Scholarship for Graduate Student for Academic Year 2019-2020                                                                                   12/2020
-Excellent Graduate of 2021                                                                                                                              10/2020
-Excellent Graduate Student for Academic Year 2018-2019                                                                                                  10/2019
-2nd Prize at Provincial Level, National Undergraduate Electronic Design Contest                                                                         08/2017
-2nd Prize in 2016 TI Cup Sichuan Undergraduate Electronic Design Contest                                                                                08/2016
-1st Prize in Academic Scholarship and Research Assistant Duty Allowance, SCU                                                                            06/2018
-Guanghua scholarship                                                                                                                                    12/2019
-National Encouragement Scholarship, Outstanding Graduate for the Class of 2018                                                                          11/2017
+* Outstanding University Graduates in 2021                                                                                                                04/2021
+* Excellent Master Degree Thesis of Sichuan University(https://drive.google.com/drive/folders/1bmexQnCn0x8lkPwVd6ld_sWumBWk09QM?usp=sharing)              06/2021
+* National Scholarship for Graduate Student for Academic Year 2019-2020                                                                                   12/2020
+* Excellent Graduate of 2021                                                                                                                              10/2020
+* Excellent Graduate Student for Academic Year 2018-2019                                                                                                  10/2019
+* 2nd Prize at Provincial Level, National Undergraduate Electronic Design Contest                                                                         08/2017
+* 2nd Prize in 2016 TI Cup Sichuan Undergraduate Electronic Design Contest                                                                                08/2016
+* 1st Prize in Academic Scholarship and Research Assistant Duty Allowance, SCU                                                                            06/2018
+* Guanghua scholarship                                                                                                                                    12/2019
+* National Encouragement Scholarship, Outstanding Graduate for the Class of 2018                                                                          11/2017
 
 Service and leadership
 ======
