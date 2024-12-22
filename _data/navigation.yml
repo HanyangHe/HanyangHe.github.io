@@ -14,6 +14,9 @@ main:
   - title: "Projects"
     url: /projects/  
 
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Intership"
     url: /intership/
     
@@ -23,8 +26,6 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
