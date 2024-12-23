@@ -33,4 +33,4 @@ for readers to browse, contact, and establish an understanding of the whole proc
 supplementary material to traditional textbooks to provide readers with a new perspective to quickly
 understand the essence of LTI system modeling methods and how those transform pairs can be originally
 constructed. 
-(https://drive.google.com/drive/folders/1vX1E28cf1zMBjO86YXrhDYtYRrdgoxks?usp=share_link)
+[PDF file](https://drive.google.com/drive/folders/1vX1E28cf1zMBjO86YXrhDYtYRrdgoxks?usp=share_link)
