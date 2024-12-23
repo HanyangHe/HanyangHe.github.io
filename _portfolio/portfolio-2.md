@@ -25,4 +25,4 @@ few years, new inspiration will suddenly emerge.
 It is the core of the first principle thinker to have his own understanding and thinking system of knowledge,
 instead of blindly worshiping others and completely accepting, and getting rid of the situation of being
 completely controlled by others' evaluation.
-(https://drive.google.com/drive/folders/1_M95M1jmSKbqZlE7ssUEKUL85W-fpB_K?usp=share_link)
+[PDE file](https://drive.google.com/drive/folders/1_M95M1jmSKbqZlE7ssUEKUL85W-fpB_K?usp=share_link)
