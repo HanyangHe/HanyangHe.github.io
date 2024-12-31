@@ -6,7 +6,7 @@ excerpt: >
   This short article has to some extent solved a long-standing confusion in my heart.
   For those like me who like to ask why and investigate the sources of methods
   and ideas, this article may make you happy.<br/>
-  <img src='/images/PWMroot.png'>
+  <img src='/images/PWMroot.PNG'>
 collection: portfolio
 ---
 
