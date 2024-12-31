@@ -1,12 +1,6 @@
 ---
 title: "An interesting thought: How to discover the PWM modulation technology with a first principle thinking way?"
-excerpt: "
-  Another interesting thought after taking the "Solid State Power Conversion"
-  course teaching by Steven Fredette - an interesting guy, a friendly teacher.
-  This short article has to some extent solved a long-standing confusion in my heart.
-  For those like me who like to ask why and investigate the sources of methods
-  and ideas, this article may make you happy.<br/>
-  <img src='/images/PWMroot.PNG'>"
+excerpt: "Another interesting thought after taking the "Solid State Power Conversion" course teaching by Steven Fredette - an interesting guy, a friendly teacher. This short article has to some extent solved a long-standing confusion in my heart. For those like me who like to ask why and investigate the sources of methods and ideas, this article may make you happy.<br/><img src='/images/PWMroot.PNG'>"
 collection: portfolio
 ---
 
