@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Electrical Engineering, Penn State University (PSU), 06/2023 - Currently 
 * M.S. in Electrical and Computer Engineering, University of Wisconsin Madison (UWM), 09/2021 - 12/2022
-* M.S. in Electrical Engineering, China, 09/2018 - 06/2021
+<!-- * M.S. in Electrical Engineering, China, 09/2018 - 06/2021-->
 * B.S. in Electrical Engineering and Automation, China, 09/2014 - 06/2018 
  
 Research experience
@@ -70,7 +70,7 @@ Teaching
 Selected honors and prizes
 ======
 * Outstanding University Graduates in 2021                                                                                                                04/2021
-* Excellent Master Degree Thesis of S.C. [PDF file](https://drive.google.com/drive/folders/1bmexQnCn0x8lkPwVd6ld_sWumBWk09QM?usp=sharing)              06/2021
+* Excellent Master Degree Thesis of S.C. <!--[PDF file](https://drive.google.com/drive/folders/1bmexQnCn0x8lkPwVd6ld_sWumBWk09QM?usp=sharing)-->              06/2021
 * National Scholarship for Graduate Student for Academic Year 2019-2020                                                                                   12/2020
 * Excellent Graduate of 2021                                                                                                                              10/2020
 * Excellent Graduate Student for Academic Year 2018-2019                                                                                                  10/2019
