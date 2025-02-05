@@ -70,7 +70,7 @@ Teaching
 Selected honors and prizes
 ======
 * Outstanding University Graduates in 2021                                                                                                                04/2021
-* Excellent Master Degree Thesis of S.C. <!--[PDF file](https://drive.google.com/drive/folders/1bmexQnCn0x8lkPwVd6ld_sWumBWk09QM?usp=sharing)-->              06/2021
+* Excellent Master Degree Thesis <!--[PDF file](https://drive.google.com/drive/folders/1bmexQnCn0x8lkPwVd6ld_sWumBWk09QM?usp=sharing)-->              06/2021
 * National Scholarship for Graduate Student for Academic Year 2019-2020                                                                                   12/2020
 * Excellent Graduate of 2021                                                                                                                              10/2020
 * Excellent Graduate Student for Academic Year 2018-2019                                                                                                  10/2019
