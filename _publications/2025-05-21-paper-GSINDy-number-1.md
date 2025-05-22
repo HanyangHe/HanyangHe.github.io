@@ -6,7 +6,7 @@ permalink: 2025-05-21-paper-GSINDy-number-1
 excerpt: 'This paper presents a curvature adaptive geometrically constrained method for manifold vector field learning of a nonlinear system described by various types of differential equations.'
 date: 2025-05-21
 venue: 'SSRN (Under review - CNSNS)'
-slidesurl: 'http://ssrn.com/abstract=5263698'
+slidesurl: ''
 paperurl: 'http://ssrn.com/abstract=5263698'
 citation: 'He, Hanyang, and Li, Yan, Learning Vector Fields of Differential Equations on Manifolds with Curvature-Adaptive Geometrically Constrained Sindy. Available at SSRN: https://ssrn.com/abstract=5263698 or http://dx.doi.org/10.2139/ssrn.5263698'
 ---
