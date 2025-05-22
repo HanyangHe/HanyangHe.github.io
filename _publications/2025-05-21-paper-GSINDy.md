@@ -3,7 +3,7 @@ title: "Learning Vector Fields of Differential Equations on Manifolds with Curva
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-21-paper-GSINDy
-excerpt: 'This paper presents a curvature adaptive geometrically constrained method for manifold vector field learning of a nonlinear system described by various types of differential equations.'
+excerpt: 'Hanyang He, and Yan Li'
 date: 2025-05-21
 venue: 'SSRN (Under review - CNSNS)'
 paperurl: 'http://ssrn.com/abstract=5263698'
