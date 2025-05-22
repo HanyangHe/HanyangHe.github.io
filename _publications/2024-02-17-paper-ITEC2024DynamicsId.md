@@ -2,7 +2,7 @@
 title: "Tangent and Normal Space-Based Method for Dynamics Identification in Microgrids"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-ITEC2024DynamicsId
 excerpt: 'This paper introduced a data-driven system identification method to model transient dynamics in the microgrid.'
 date: 2024-02-17
 venue: '2024 IEEE Transportation Electrification Conference and Expo (ITEC)'
