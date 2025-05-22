@@ -3,7 +3,7 @@ title: "Physics-Embedded Dictionary-Based Model Predictive Control for Electrica
 collection: publications
 category: conferences
 permalink: /publication/2025-06-X-paper-ITEC2025EVcharging
-# excerpt: 'This paper introduced a data-driven modeling method called Physics-embedded Dictionary-based System Identification (PhD-SI) for the MPC-based EV charging control.'
+excerpt: 'Hanyang He, Yan Li, and Minghui Zhu'
 date: 2025-06-20
 venue: '2025 IEEE Transportation Electrification Conference and Expo (ITEC)'
 # paperurl: '-'
