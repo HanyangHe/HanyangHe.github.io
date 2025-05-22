@@ -2,7 +2,7 @@
 title: "Learning Vector Fields of Differential Equations on Manifolds with Curvature-Adaptive Geometrically Constrained SINDy"
 collection: publications
 category: manuscripts
-permalink: /publications/2025-05-21-paper-GSINDy
+permalink: /publication/2025-05-21-paper-GSINDy
 excerpt: 'This paper presents a curvature adaptive geometrically constrained method for manifold vector field learning of a nonlinear system described by various types of differential equations.'
 date: 2025-05-21
 venue: 'SSRN (Under review - CNSNS)'
