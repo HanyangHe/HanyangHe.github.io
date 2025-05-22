@@ -3,7 +3,7 @@ title: "Learning vector fields of differential equations on manifolds with geome
 collection: publications
 category: conferences
 permalink: /publication/2025-01-22-paper-GMKRR
-excerpt: 'This paper proposed a geometrical constrained multivariate kernel ridge regression method to learn the vector field located on the smooth manifold.'
+<!--excerpt: 'This paper proposed a geometrical constrained multivariate kernel ridge regression method to learn the vector field located on the smooth manifold.'-->
 date: 2025-01-22
 venue: 'ICLR'
 paperurl: 'https://openreview.net/forum?id=OwpLQrpdwE&nesting=2&sort=date-desc'
