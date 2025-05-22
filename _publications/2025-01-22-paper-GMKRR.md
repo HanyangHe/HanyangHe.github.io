@@ -1,14 +1,13 @@
 ---
 title: "Learning vector fields of differential equations on manifolds with geometrically constrained operator-valued kernels"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2025-01-22-paper-GMKRR
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper proposed a geometrical constrained multivariate kernel ridge regression method to learn the vector field located on the smooth manifold.'
+date: 2025-01-22
+venue: 'ICLR'
+paperurl: 'https://openreview.net/forum?id=OwpLQrpdwE&nesting=2&sort=date-desc'
+citation: 'Huang, D., He, H., Harlim, J., & Li, Y. (2025). Learning vector fields of differential equations on manifolds with geometrically constrained operator-valued kernels. In International Conference on Learning Representations (ICLR 2025).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We address the problem of learning ordinary differential equations (ODEs) on manifolds. Existing machine learning methods, particularly those using neural networks, often struggle with high computational demands. To overcome this issue, we introduce a geometrically constrained operator-valued kernel that allows us to represent vector fields on tangent bundles of smooth manifolds. The construction of the kernel imposes the geometric constraints that are estimated from the data and ensures the computational feasibility for learning high dimensional systems of ODEs. Once the vector fields are estimated, e.g., by the kernel ridge regression, we need an ODE solver that guarantees the solution to stay on (or close to) the manifold. To overcome this issue, we propose a geometry-preserving ODE solver that approximates the exponential maps corresponding to the ODE solutions. We deduce a theoretical error bound for the proposed solver that guarantees the approximate solutions to lie on the manifold in the limit of large data. We verify the effectiveness of the proposed approach on high-dimensional dynamical systems, including the cavity flow problem, the beating and travelling waves in Kuramoto-Sivashinsky equations, and the reaction-diffusion dynamics.
