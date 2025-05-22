@@ -1,7 +1,7 @@
 ---
 title: "Learning vector fields of differential equations on manifolds with geometrically constrained operator-valued kernels"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2025-01-22-paper-GMKRR
 excerpt: 'This paper proposed a geometrical constrained multivariate kernel ridge regression method to learn the vector field located on the smooth manifold.'
 date: 2025-01-22
