@@ -1,36 +1,18 @@
 ---
-title: "An interesting thought: Discovering Fourier Transform with First Principles Thinking"
-excerpt: "This is an interesting thought I had after listening to the signal and system class at UWM. I write a small textbook to give a possible explanation for the essential difference between Z-transform and S-transform, and give an unconventional perspective to discover the Fourier transform originally. As a student, I write this from a student's perspective, which may help students acquire the idea smoothly. After all, users understand their needs the most.<br/><img src='/images/FourierTransIndex.PNG'>"
+title: "Discovering the Fourier Transform from Scratch — A First-Principles View"
+excerpt: "This is an interesting thought I had after listening to the signal and system class at UWM. The first edition was completed on December 31, 2022. The second edition was revised on June 7, 2025.<br/><img src='/images/FourierTransIndex.PNG'>"
 collection: portfolio
 ---
 
-Traditional signals and systems textbooks provide detailed and comprehensive explanations of LIT
-analysis methods. However, readers may feel not easy to find the conclusion of the Fourier Transform (FT)
-naturally and originally. Sometimes, the original way in history to find some useful rules may not be the
-easiest. These processes usually include a huge of research experience, inspiration, and even coincidences,
-unique to some scientists. Different from traditional books, this one introduces the derivation process of FT
-from an opposite angle – starting from general to specific, and then back to general. That means the book
-will first introduce why we choose the exponential function as a characteristic function to build the linear
-model of the LTI system. Then, how to relate exp-function with Z-Transform (Z-T), and finally to dig out
-the FT. After that, the limit of FT will be pointed out and ZT will be reconsidered for more general
-applications. Readers may also find there are many other small cycles between general and specific since
-this is a way to push on the thinking path. Also, the journey will be pushed on by the cycle of asking and
-solving questions, which may also help readers be more proactive and actively involved in the derivation
-process. Additionally, an interesting question about the essential difference between ZT and s-Transform
-(S-T) will also be discussed.
-Why do I want to write this work?
-I am interested in a question – to make clear the essential difference between Z-T and s-T. I scoured
-the web for this question and asked Prof. Chu about it, but it seems not to be easily explained as I thought
-before. The last and most powerful and interesting way to solve this problem is to re-find the derivation
-process of those LIT systems’ transform pairs originally. Also, since I am not familiar with this basic and
-widely used knowledge area – signal and system analysis, it is valuable for me to review and deepen my
-understanding of the modeling ideas. Most importantly, this work may also help others understand this
-process easier since it is introducing a new derivation process in a first-principle way.
+Traditional textbooks on signals and systems offer thorough and systematic explanations of linear time-invariant (LTI) analysis methods. However, readers often find it difficult to naturally and intuitively arrive at the key results for the Fourier Transform (FT) from first principles. The original historical derivation of these mathematical tools was often complex, filled with deep research experience, inspiration, and sometimes even coincidences unique to pioneering scientists. As a result, the path to important conclusions may feel opaque or indirect in many classic texts.
+Unlike traditional books, this work approaches the derivation of the Fourier Transform from a novel perspective—moving from the general to the specific and then returning to the general. The journey begins by exploring why the exponential function is chosen as the fundamental solution (or characteristic function) for modeling LTI systems. From there, the relationship between the exponential function and the Z-Transform (ZT) is developed, ultimately leading to a natural emergence of the Fourier Transform. The book also highlights the limitations of the FT, motivating a return to the Z-Transform for more general applications.
+Throughout, readers will encounter multiple “cycles” of abstraction and specialization, reflecting the real thinking process involved in mathematical discovery. This iterative process of questioning and problem-solving encourages readers to be more proactive and engaged with the material. Finally, the book discusses a thought-provoking comparison of the essential differences between the Z-Transform and the Laplace Transform (s-Transform), inviting deeper reflection on their respective roles and applications.
+Why did I write this book?
+My motivation for writing this book comes from a long-standing curiosity: What is the essential difference between the Z-Transform (ZT) and the s-Transform (Laplace Transform)? Despite studying numerous materials and discussing the topic with course instructors, I found that the answer was not as straightforward as I had initially expected. Ultimately, I realized that the most insightful and compelling way to address this question was to retrace the original derivation process of transform pairs in linear time-invariant (LTI) systems, starting from first principles.
+Moreover, since this topic lies at the heart of signal and system analysis—a fundamental and widely applied area—it is worthwhile to revisit and deepen our understanding of these core modeling concepts. Most importantly, I hope that this work will offer a clearer, more intuitive path for readers to grasp these ideas by presenting a new derivation approach grounded in first-principles reasoning.
 What is the advantage of this book?
-Although this book is not as broad as the knowledge system of traditional textbooks, it has a unified
-symbol system for all chapters. In addition, the content of this book is concise, which is more conducive
-for readers to browse, contact, and establish an understanding of the whole process. It can be used as
-supplementary material to traditional textbooks to provide readers with a new perspective to quickly
-understand the essence of LTI system modeling methods and how those transform pairs can be originally
-constructed. 
-[PDF file](https://drive.google.com/drive/folders/1vX1E28cf1zMBjO86YXrhDYtYRrdgoxks?usp=share_link)
+While this book does not attempt to match the breadth of traditional textbooks, it offers some unique strengths. First, a consistent and unified notation system is used throughout all chapters, reducing confusion and aiding comprehension. Second, the content is intentionally concise, making it easier for readers to browse, connect key concepts, and build a holistic understanding of the modeling and derivation process. As a supplement to standard textbooks, this work provides a fresh perspective, helping readers to quickly grasp the essence of LTI system modeling and to see how various transform pairs can be constructed from the ground up.
+Please note that, to ensure accessibility for readers with a junior high school education or above and to convey the beauty of this intellectual journey, this book uses the simplest possible language and detailed explanations to present the entire process of discovery. The focus is on coherence and clarity of thought, rather than rigid, formal language or standard symbols. This book emphasizes the process and methods of thinking, rather than merely presenting results and conclusions.
+The aim is to encourage and promote qualities and values rooted in independent, first-principles reasoning, respect for objective natural laws, and free thought, rather than uncritical adherence to existing rules or so-called “absolute correctness.” When everyone cultivates the habit of thinking, acting, and making decisions following natural laws, society will progress toward a state of true harmony, authenticity, and integrity.
+ 
+[PDF file](https://drive.google.com/file/d/1kFuFD3GIIXV7dZnVwqP5saYS_nRDWSQE/view?usp=drive_link)
