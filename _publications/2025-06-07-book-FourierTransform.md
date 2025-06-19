@@ -1,8 +1,7 @@
 ---
 title: "Discovering the Fourier Transform from Scratch — A First-Principles View"
 collection: publications
-category: book chapter
-publication_type: "bookchapter"
+category: bookchapter
 permalink: /publication/2025-06-07-book-FourierTransform
 excerpt: 'Hanyang He'
 date: 2025-06-07
