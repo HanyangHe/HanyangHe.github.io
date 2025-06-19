@@ -1,7 +1,7 @@
 ---
 title: "Learning vector fields of differential equations on manifolds with geometrically constrained operator-valued kernels"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-01-22-paper-GMKRR
 excerpt: 'Daning Huang, Hanyang He, John Harlim, Yan Li'
 date: 2025-01-22
