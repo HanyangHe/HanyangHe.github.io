@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical Engineering, Penn State University (PSU), 06/2023 - Currently 
-* M.S. in Electrical and Computer Engineering, University of Wisconsin Madison (UWM), 09/2021 - 12/2022
-<!-- * M.S. in Electrical Engineering, China, 09/2018 - 06/2021-->
+* M.S. in Electrical and Computer Engineering, University of Wisconsin-Madison (UWM), 09/2021 - 12/2022
+* M.S. in Electrical Engineering, China, 09/2018 - 06/2021
 * B.S. in Electrical Engineering and Automation, China, 09/2014 - 06/2018 
  
 Research experience
