@@ -21,7 +21,7 @@ repository               : "hanyanghe.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Hanyang He"
   pronouns         : # example: "she/her"  
   bio              : "A PhD focused on data-driven based system identification methods and its associated control applications in microgrid and power system area."
