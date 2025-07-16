@@ -35,7 +35,7 @@ Work experience
 ======
 * 11/2017-08/2018: Intern
   * Electric Power Test & Research Institute, Guangzhou Power Supply Bureau Co., Ltd
-  * Duties included: Survey and interview of industrial users suffered from power disturbance. Develop the analytical model of disturbance sensitive device in MATLAB based on hardware and lab tested results. Conduct numerical studies on these analytical model to reveal the disturbance response mechanism and give mitigation suggestions.
+  * Duties included: Survey and interview of industrial users who suffered from power disturbance. Develop the analytical model of disturbance sensitive device in MATLAB based on hardware and lab tested results. Conduct numerical studies on these analytical model to reveal the disturbance response mechanism and give mitigation suggestions.
 
 Skills
 ======
@@ -43,7 +43,7 @@ Skills
 * Python
 * PLECS
 * PSCAD
-* Office Apps (Word, Excel, PowerPoint, Visio), Latex
+* Office Apps (Word, Excel, PowerPoint, Visio), LaTeX
 * Unity
 * Adobe Apps (PS, ID, Pr, etc.)
 
@@ -69,6 +69,7 @@ Teaching
 
 Selected honors and prizes
 ======
+* Milton and Albertha Langdon Memorial Graduate Fellowship 2024                                                                             02,06,10/2024
 * Outstanding University Graduates in 2021                                                                                                                04/2021
 * Excellent Master Degree Thesis <!--[PDF file](https://drive.google.com/drive/folders/1bmexQnCn0x8lkPwVd6ld_sWumBWk09QM?usp=sharing)-->              06/2021
 * National Scholarship for Graduate Student for Academic Year 2019-2020                                                                                   12/2020
