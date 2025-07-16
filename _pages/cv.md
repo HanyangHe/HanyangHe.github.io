@@ -69,19 +69,19 @@ Teaching
 
 Selected honors and prizes
 ======
-* Milton and Albertha Langdon Memorial Graduate Fellowship 2024                                                                             02,06,10/2024
-* Outstanding University Graduates in 2021                                                                                                                04/2021
-* Excellent Master Degree Thesis <!--[PDF file](https://drive.google.com/drive/folders/1bmexQnCn0x8lkPwVd6ld_sWumBWk09QM?usp=sharing)-->              06/2021
-* National Scholarship for Graduate Student for Academic Year 2019-2020                                                                                   12/2020
-* Excellent Graduate of 2021                                                                                                                              10/2020
-* Excellent Graduate Student for Academic Year 2018-2019                                                                                                  10/2019
-* 2nd Prize at Provincial Level, National Undergraduate Electronic Design Contest                                                                         08/2017
-* 2nd Prize in 2016 TI Cup Sichuan Undergraduate Electronic Design Contest                                                                                08/2016
-* 1st Prize in Academic Scholarship and Research Assistant Duty Allowance                                                                            06/2018
-* Excellent Undergraduate Degree Thesis of S.C.                                                                                                          06/2018
-* Guanghua scholarship                                                                                                                                    12/2019
-* National Encouragement Scholarship, Outstanding Graduate for the Class of 2018                                                                          11/2017
+* Milton and Albertha Langdon Memorial Graduate Fellowship 2024                                                                             @02,06,10/2024
+* Outstanding University Graduates in 2021                                                                                                                @04/2021
+* Excellent Master Degree Thesis <!--[PDF file](https://drive.google.com/drive/folders/1bmexQnCn0x8lkPwVd6ld_sWumBWk09QM?usp=sharing)-->              @06/2021
+* National Scholarship for Graduate Student for Academic Year 2019-2020                                                                                   @12/2020
+* Excellent Graduate of 2021                                                                                                                              @10/2020
+* Excellent Graduate Student for Academic Year 2018-2019                                                                                                  @10/2019
+* 2nd Prize at Provincial Level, National Undergraduate Electronic Design Contest                                                                         @08/2017
+* 2nd Prize in 2016 TI Cup Sichuan Undergraduate Electronic Design Contest                                                                                @08/2016
+* 1st Prize in Academic Scholarship and Research Assistant Duty Allowance                                                                            @06/2018
+* Excellent Undergraduate Degree Thesis of S.C.                                                                                                          @06/2018
+* Guanghua scholarship                                                                                                                                    @12/2019
+* National Encouragement Scholarship, Outstanding Graduate for the Class of 2018                                                                          @11/2017
 
 Service and leadership
 ======
-University Youth League Committee Propaganda Department - Vice President of Magazine                                                                    2015-2016
+University Youth League Committee Propaganda Department - Vice President of Magazine                                                                    @2015-2016
