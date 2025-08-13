@@ -82,6 +82,7 @@ Selected honors and prizes
 * Guanghua scholarship                                                                                                                                    @12/2019
 * National Encouragement Scholarship, Outstanding Graduate for the Class of 2018                                                                          @11/2017
 
-Service and leadership
+Service, activities, and leadership
 ======
+Journal/Conference paper reviewer: IET Generation, Transmission & Distribution;  
 University Youth League Committee Propaganda Department - Vice President of Magazine                                                                    @2015-2016
