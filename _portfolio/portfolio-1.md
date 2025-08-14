@@ -1,8 +1,10 @@
-
 ---
 title: "War of Tanks"
 excerpt: "This is a 2D tank game I independently developed in 2021. With intuitive controls and flexible gameplay, it’s a classic casual game that’s perfect for relaxing and sharpening your focus.<br/><img src='/images/waroftanks.jpg'>"
-collection: portfolio
+collection: portfolio        
+date: 2021          
+header:
+  image: /images/waroftanks.jpg
 ---
 
 All control code, sound effects, and graphic assets in this game were created independently by myself. All assets used are free of copyright issues, and the game is not intended for commercial use.
