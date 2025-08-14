@@ -1,11 +1,11 @@
-<!--
+
 ---
-title: "Discovering the Fourier Transform from Scratch — A First-Principles View"
-excerpt: "This is an interesting thought I had after listening to the signal and system class at UWM. The first edition was completed on December 31, 2022. The second edition was revised on June 7, 2025.<br/><img src='/images/FourierTransIndex.PNG'>"
+title: "War of Tanks"
+excerpt: "This is a 2D tank game I independently developed in 2021. With intuitive controls and flexible gameplay, it’s a classic casual game that’s perfect for relaxing and sharpening your focus.<br/><img src='/images/FourierTransIndex.PNG'>"
 collection: portfolio
 ---
 
-This book aims to encourage and promote qualities and values rooted in independent, first-principles reasoning, respect for objective natural laws, and free thought, rather than uncritical adherence to existing rules or so-called “absolute correctness.” When everyone cultivates the habit of thinking, acting, and making decisions following natural laws, society will progress toward a state of true harmony, authenticity, and integrity.
+All control code, sound effects, and graphic assets in this game were created independently by myself. All assets used are free of copyright issues, and the game is not intended for commercial use.
  
-[PDF file](https://ssrn.com/abstract=5285592)
--->
+[ZIP file](https://drive.google.com/file/d/1Wbyt6muxKKnI79cGKD67X3Jarbj8KpdP/view?usp=sharing)
+
