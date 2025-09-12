@@ -6,7 +6,7 @@ header:
   image: /images/waroftanks.jpg
 ---
 
-All scripts, sound effects, and graphic assets in this game were independently developed by the author. All assets are free from copyright restrictions, and the game is intended for non-commercial purposes only.
+This is a self-developed game. All assets are free from copyright restrictions, and the game is intended for non-commercial purposes only.
  
 [ZIP file](https://drive.google.com/file/d/1Wbyt6muxKKnI79cGKD67X3Jarbj8KpdP/view?usp=sharing)
 
