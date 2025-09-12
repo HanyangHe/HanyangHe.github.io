@@ -11,7 +11,7 @@ redirect_from:
 
 ### Latest Updates
 
-There is no news under the sun ... 
+Developing ... 
 
 <!--
 #### [2024-12-01] Title of News 1
