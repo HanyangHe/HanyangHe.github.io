@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2025-05-21-paper-GSINDy
 excerpt: 'Hanyang He, and Yan Li'
 date: 2025-05-21
-venue: 'Communications in Nonlinear Science and Numerical Simulation (CNSNS), accepted and to be published'
-paperurl: 'http://ssrn.com/abstract=5263698'
+venue: 'Communications in Nonlinear Science and Numerical Simulation (CNSNS)'
+paperurl: '[http://ssrn.com/abstract=5263698](https://authors.elsevier.com/sd/article/S1007-5704(25)00815-9)'
 # citation: 'He, Hanyang, and Li, Yan, Learning Vector Fields of Differential Equations on Manifolds with Curvature-Adaptive Geometrically Constrained Sindy. Available at SSRN: https://ssrn.com/abstract=5263698 or http://dx.doi.org/10.2139/ssrn.5263698'
 ---
 
