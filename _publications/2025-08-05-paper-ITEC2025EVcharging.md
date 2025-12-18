@@ -7,8 +7,7 @@ excerpt: 'Hanyang He, Yan Li, and Minghui Zhu'
 date: 2025-06-20
 venue: '2025 IEEE Transportation Electrification Conference and Expo (ITEC)'
 # paperurl: 'https://ieeexplore.ieee.org/document/11098051'
-# citation: 'H. He, Y. Li and M. Zhu, "Physics-Embedded Dictionary-Based Model Predictive Control for Electrical Vehicle Charging Systems," 2025 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS), Anaheim, CA, USA, 2025, pp. 1-5, doi: 10.1109/ITEC63604.2025.11098051.
-'
+# citation: 'H. He, Y. Li and M. Zhu, "Physics-Embedded Dictionary-Based Model Predictive Control for Electrical Vehicle Charging Systems," 2025 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS), Anaheim, CA, USA, 2025, pp. 1-5, doi: 10.1109/ITEC63604.2025.11098051.'
 # GitHub: 'https://github.com/HanyangHe/EV-charging-project'
 ---
 
