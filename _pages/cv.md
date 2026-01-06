@@ -84,6 +84,4 @@ Selected honors and prizes
 
 Service, activities, and leadership
 ======
-Journal/Conference paper reviewer: IET Generation, Transmission & Distribution; IEEE Transactions on Industry Applications; International Journal of Electrical Power and Energy Systems;
-
-University Youth League Committee Propaganda Department - Vice President of Magazine, 2016                                                               
+Journal/Conference paper reviewer: IET Generation, Transmission & Distribution; IEEE Transactions on Industry Applications; International Journal of Electrical Power and Energy Systems;                                                           
