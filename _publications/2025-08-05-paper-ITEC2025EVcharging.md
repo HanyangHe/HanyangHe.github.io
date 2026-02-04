@@ -1,7 +1,7 @@
 ---
 title: "Physics-Embedded Dictionary-Based Model Predictive Control for Electrical Vehicle Charging Systems"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2025-08-05-paper-ITEC2025EVcharging
 excerpt: 'Hanyang He, Yan Li, and Minghui Zhu'
 date: 2025-06-20
