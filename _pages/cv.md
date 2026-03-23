@@ -28,14 +28,14 @@ Research experience
   * Duties included: Developing and evaluating a simplified control architecture that consists of the dual-port grid-forming control for Modular Multilevel Converter (MMC) in MATLAB-Simulink.
  
 * 05/2019-10/2020: Research Assistant
-  * Research projects from FuJian, ChenDu, GuangZhou Electric Power Research Institute 
+  * Research projects from Fujian, Chengdu, Guangzhou Electric Power Research Institute 
   * Duties included: Participated in project proposal writing and bidding processes, taking responsibility for project planning, conducting core methodological research, writing code, and preparing project reports and presentations. The project focuses on mitigating the impact of power disturbances on users in the distribution network system. Key tasks include evaluating the severity of disturbances, identifying sensitive users, and designing tailored solutions with varying economic costs to address these issues effectively. 
 
 Work experience
 ======
 * 11/2017-08/2018: Intern
-  * Electric Power Test & Research Institute, Guangzhou Power Supply Bureau Co., Ltd
-  * Duties included: Survey and interview of industrial users who suffered from power disturbance. Develop the analytical model of disturbance sensitive device in MATLAB based on hardware and lab tested results. Conduct numerical studies on these analytical model to reveal the disturbance response mechanism and give mitigation suggestions.
+  * Electric Power Test and Research Institute of Guangzhou Power Supply Bureau
+  * Duties included: Survey and interview of industrial users who suffered from power disturbance. Develop the analytical model of a disturbance-sensitive device in MATLAB based on hardware and lab-tested results. Conduct numerical studies on these analytical models to reveal the disturbance response mechanism and give mitigation suggestions.
 
 Skills
 ======
