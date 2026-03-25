@@ -6,8 +6,8 @@ permalink: /publication/2026-03-04-paper-IAS EVcharging
 excerpt: 'Hanyang He, Yan Li, Minghui Zhu, Liang Du, and Daning Huang'
 date: 2026-03-04
 venue: 'IEEE Transactions on Industry Applications'
-# paperurl: 'https://ieeexplore.ieee.org/document/11454531'
-# citation: 'H. He, Y. Li, M. Zhu, L. Du, and D. Huang, "Physics-Embedded Data-Driven Modeling for Model Predictive Control of Battery Charging Converter," IEEE Transactions on Industry Applications, 2026, to be published.'
+paperurl: 'https://ieeexplore.ieee.org/document/11454531'
+# citation: 'H. He, Y. Li, M. Zhu, L. Du and D. Huang, "Physics-Embedded Data-Driven Modeling for Model Predictive Control of Battery Charging Converter," in IEEE Transactions on Industry Applications, doi: 10.1109/TIA.2026.3676959, https://ieeexplore.ieee.org/document/11454531.'
 ---
 
 Model predictive control (MPC) is widely used for battery converter charging control due to its strong capability to explicitly handle multiple objectives and complex constraints in real time. However, its performance depends on the accuracy of the prediction model, which is often degraded by incomplete prior physical knowledge, parameter uncertainty, and aging effects, thereby necessitating data-driven modeling strategies. Moreover, periodic model updating and real-time control require both low training and inference time costs, which purely data-driven models struggle to achieve.
