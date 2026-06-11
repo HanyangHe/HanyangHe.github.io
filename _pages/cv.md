@@ -18,16 +18,16 @@ Education
  
 Research experience
 ======
-* 06/2023-Currently: Research Assistant
+* 06/2023: Research Assistant
   * AMPS Research project at PSU 
   * Duties included: Explore geometric constrained SINDy and kernel-based data-driven methods for system identification. Design control methods (e.g., model predictive control) associated with these identified models to deal with new challenges that emerged in the modern power system/ microgrids.
   * Supervisor: Yan Li, John Harlim, Daning Huang
 
-* 06/2022-11/2022: Research Assistant
+* 06/2022: Research Assistant
   * Electric Power Systems Research Group at UWM 
   * Duties included: Developing and evaluating a simplified control architecture that consists of the dual-port grid-forming control for Modular Multilevel Converter (MMC) in MATLAB-Simulink.
  
-* 05/2019-10/2020: Research Assistant
+* 05/2019: Research Assistant
   * Research projects from Fujian, Chengdu, Guangzhou Electric Power Research Institute 
   * Duties included: Participated in project proposal writing and bidding processes, taking responsibility for project planning, conducting core methodological research, writing code, and preparing project reports and presentations. The project focuses on mitigating the impact of power disturbances on users in the distribution network system. Key tasks include evaluating the severity of disturbances, identifying sensitive users, and designing tailored solutions with varying economic costs to address these issues effectively. 
 
