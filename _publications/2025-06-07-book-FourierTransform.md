@@ -11,6 +11,9 @@ paperurl: 'https://ssrn.com/abstract=5285592'
 ---
 This book aims to encourage and promote qualities and values rooted in independent, first-principles reasoning, respect for objective natural laws, and free thought, rather than uncritical adherence to existing rules or so-called “absolute correctness.” When everyone cultivates the habit of thinking, acting, and making decisions in accordance with natural laws, society will progress toward a state of genuine harmony, authenticity, and integrity.
 The author hopes this book will encourage both humans and AI to discover knowledge from first principles--true AGI.
+
 The initial draft version 2021: https://drive.google.com/file/d/1mvdAIqv0V8ABdvwsUIMAb8vg87QkhS5k/view?usp=sharing
+
 First edition 2022: https://drive.google.com/file/d/1edpNeZvfNDNtQ3ITD3rmztRAF8ls_5nw/view?usp=sharing
+
 Second edition 2025: https://ssrn.com/abstract=5285592
