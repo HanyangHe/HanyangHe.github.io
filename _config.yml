@@ -76,13 +76,12 @@ author:
 
 # Publication Category - The following a list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books or Book Chapters'
   manuscripts:
     title: 'Selected Journal & Top Class Conference Papers'    
   conferences:
     title: 'Conference Papers'
-  
+  others:
+    title: 'Other Scholarly Work'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
