@@ -34,6 +34,8 @@
 }
 .research-projects .rp-intro p { margin: 0 0 .7em; }
 .research-projects .rp-intro p:last-child { margin-bottom: 0; font-size: .9em; }
+/* Separate the cross-scale summary from the preceding time-scale descriptions. */
+.research-projects .rp-intro p.rp-cross-scale-note { margin-top: 1.6em; }
 .research-projects .rp-overview-lead {
   color: var(--rp-ink);
   font-size: 1.18em;
