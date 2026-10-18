@@ -148,7 +148,11 @@
         .nodeColor(function (node) { return colors[node.track]; })
         .nodeOpacity(0.95)
         .nodeResolution(18)
-        .nodeLabel(function (node) { return node.name + " — " + node.status; })
+        .nodeLabel(function (node) {
+                                      return node.status && node.status.trim()
+                                        ? node.name + " — " + node.status
+                                        : node.name;
+                                    })
         .linkColor(linkColor)
         .linkOpacity(0.57)
         .linkWidth(0.8)
