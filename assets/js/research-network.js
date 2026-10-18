@@ -13,7 +13,7 @@
   var directory = document.getElementById("rn-directory");
   var motionOK = !window.matchMedia || !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-  var colors = { core: "#2a4763", slow: "#347ac0", fast: "#138b82", future: "#c78b2c" };
+  var colors = { core: "#2a4763", slow: "#347ac0", fast: "#138b82", future: "#c78b2c", earlier: "#000000" };
   var dimColor = "#cdd8e1";
   var network;
   try { network = JSON.parse(dataElement.textContent); }
