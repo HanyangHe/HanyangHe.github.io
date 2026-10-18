@@ -156,7 +156,7 @@
         .linkColor(linkColor)
         .linkOpacity(0.57)
         .linkWidth(0.8)
-        .linkDirectionalArrowLength(function (edge) { return edge.kind === "future" ? 3.5 : 0; })
+        .linkDirectionalArrowLength(function (edge) { return edge.kind === "future" ? 8 : 0; })
         .linkDirectionalArrowRelPos(0.76)
         .enableNodeDrag(false)
         .cooldownTicks(140)
