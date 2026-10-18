@@ -199,7 +199,8 @@
         lazyObserver.disconnect();
         initialize();
       }
-    }, { rootMargin: "350px 0px", threshold: 0 }).observe(stage);
+    }, { rootMargin: "350px 0px", threshold: 0 });
+    lazyObserver.observe(stage);
   } else {
     initialize();
   }
