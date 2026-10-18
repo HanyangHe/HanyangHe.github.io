@@ -51,6 +51,8 @@
 .rn-swatch--slow { background: var(--rn-slow); }
 .rn-swatch--fast { background: var(--rn-fast); }
 .rn-swatch--future { background: var(--rn-future); }
+.rn-swatch--core {  background: #2a4763;}
+.rn-swatch--earlier {  background: #000000;}
 .rn-toolbar {
   display: flex;
   align-items: center;
