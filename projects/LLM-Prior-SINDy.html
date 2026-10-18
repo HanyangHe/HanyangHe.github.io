@@ -1,0 +1,97 @@
+
+---
+title: "LLM-Assisted Physical-Dictionary Discovery for Data-Efficient Microgrid Dynamic Modeling"
+card_title: "LLM-Prior SINDy for Microgrid Dynamic Modeling"
+collection: projects
+layout: research-project
+permalink: /projects/llm-prior-sindy/
+redirect_from:
+  - /projects/adaptive-digital-shadows/
+author_profile: true
+comments: false
+share: false
+related: false
+show_in_projects: false
+project_order: 20
+research_area: identification
+method_label: "LLM-Prior SINDy"
+project_status: Under review
+status_style: review
+summary: "LLM-guided physical-dictionary discovery and deterministic interaction expansion enable data-efficient sparse identification of microgrid dynamics, with reusable models for online adaptation and receding-horizon prediction."
+excerpt: "LLM-guided physical-dictionary discovery and deterministic interaction expansion for data-efficient microgrid dynamic modeling."
+question: "How can limited device-semantic knowledge be converted into useful physical dictionaries for microgrid dynamic identification without requiring complete device equations or manually designed strong-prior libraries?"
+research_tags:
+  - LLM-assisted physics discovery
+  - Sparse identification
+  - Physical dictionaries
+  - Microgrid dynamics
+  - Online model adaptation
+paper_ids:
+  - llm_sindy
+content_updated: October 18, 2026
+---
+
+<h2>From incomplete physics to useful dynamic models</h2>
+<p>Microgrid digital twins and predictive applications require dynamic models that remain accurate when training data are scarce and device-level equations are incomplete. Sparse identification of nonlinear dynamics (SINDy) offers compact, interpretable models with inexpensive coefficient estimation, but its accuracy depends strongly on the candidate-function dictionary. Expert-designed physical dictionaries can be effective, yet creating them often requires precisely the equation-level knowledge unavailable to the identifier. This research addresses how to construct informative physical candidates from less detailed engineering semantics.</p>
+
+<h2>LLM-assisted physical-dictionary discovery</h2>
+<p><strong>LLM-Prior SINDy</strong> converts device type, variable meanings, coordinate conventions, and qualitative interaction cues into reusable candidate dictionaries. A pretrained LLM proposes coefficient-free physical expressions and interaction families. A deterministic compiler validates and canonicalizes the proposals, removes redundant terms, and expands physically relevant interactions. The final dictionary is evaluated by a shared sparse-regression backend, rather than having the LLM select coefficients or repeatedly search equations.</p>
+
+<ol class="rp-flow" aria-label="Four stages of LLM-Prior SINDy">
+  <li><span class="rp-step-number" aria-hidden="true">01</span><h3>Specify</h3><p>Provide device semantics, available coordinate conventions, and qualitative physical-interaction knowledge.</p></li>
+  <li><span class="rp-step-number" aria-hidden="true">02</span><h3>Propose</h3><p>Use an LLM to suggest coefficient-free physical expressions and interaction families.</p></li>
+  <li><span class="rp-step-number" aria-hidden="true">03</span><h3>Compile</h3><p>Validate and canonicalize symbolic candidates, then construct bounded interaction expansions.</p></li>
+  <li><span class="rp-step-number" aria-hidden="true">04</span><h3>Identify</h3><p>Select sparse terms and estimate coefficients from data. Cache the dictionary for later reuse.</p></li>
+</ol>
+
+
+<p>
+  The complete LLM-Prior SINDy workflow is illustrated in Fig. 1,
+  from semantic knowledge and physical-dictionary discovery to
+  symbolic compilation, sparse identification, and model reuse.
+</p>
+
+<figure class="project-figure"
+        style="margin: 1.5rem auto; text-align: center;">
+
+  <a href="{{ '/images/projects/llm_prior_sindy_workflow.png' | relative_url }}"
+     target="_blank"
+     rel="noopener noreferrer">
+
+    <img
+      src="{{ '/images/projects/llm_prior_sindy_workflow.png' | relative_url }}"
+      alt="LLM-Prior SINDy workflow showing semantic knowledge input, LLM-guided dictionary discovery, symbolic compilation, sparse identification, and reusable model applications."
+      style="display: block; width: 100%; max-width: 100%; height: auto;"
+      loading="lazy"
+      decoding="async"
+    >
+
+  </a>
+
+  <figcaption style="margin-top: 0.6rem; font-size: 0.85rem;">
+    <strong>Fig. 1.</strong> LLM-Prior SINDy workflow.
+    Click to view the full-resolution figure.
+  </figcaption>
+
+</figure>
+
+
+<h2>Modular microgrid dynamics</h2>
+<p>The framework identifies local dynamic models for <strong>synchronous generators (SGs), grid-forming (GFM) inverters, and grid-following (GFL) inverters</strong>, while retaining the known network algebraic equations of the microgrid differential-algebraic system. Devices of the same type share the discovered candidate dictionary, but their coefficients are fitted independently. The representation can therefore be reused across network sizes without making new LLM calls during identification or simulation.</p>
+
+<h2>Reported numerical evidence</h2>
+<p>Simulation studies use <strong>10-, 69-, and 123-bus microgrids</strong> to evaluate short-trajectory identification, sample efficiency, measurement-noise sensitivity, and rollout reliability. Under the tested limited-data conditions, LLM-Prior SINDy achieves favorable prediction accuracy compared with generic and evolved dictionaries. Prior-level ablations indicate that the largest improvements arise from combining LLM-suggested physical expressions with deterministic interaction expansion, rather than using direct LLM proposals or generic feature expansion alone.</p>
+
+<h2>Online adaptation and receding-horizon prediction</h2>
+<p>The discovered dictionary also supports lightweight online model maintenance. When a device's dynamics change, a rolling mismatch detector identifies the affected module. Its active coefficients can be updated using recent observations, followed by subsequent-window validation and optional state synchronization. The dictionary and selected sparse support remain fixed during these online updates.</p>
+
+<div class="rp-result" role="note" aria-label="69-bus online model-maintenance result">
+  <div><span class="rp-result-value">70.58%</span><span class="rp-result-label">lower non-delay tracking RMSE</span></div>
+  <p><strong>5.8593 &times; 10<sup>&minus;4</sup> &rarr; 1.7240 &times; 10<sup>&minus;4</sup></strong><br>Combined coefficient adaptation and state synchronization versus the frozen model in the reported 69-bus case. Whole-window RMSE decreases by 44.74%.</p>
+</div>
+
+<p>In a separate <strong>69-bus sliding-start prediction</strong> study, the identified model completes <strong>49 of 49</strong> tested 12-s prediction windows, with mean trajectory RMSE <strong>1.8007 &times; 10<sup>&minus;8</sup></strong>, without retraining or additional LLM calls. This is an open-loop receding-horizon prediction evaluation with prescribed future inputs, not a demonstration of closed-loop MPC.</p>
+
+<h2>Scope and current status</h2>
+<p>The framework assumes known network algebraic relationships and device states that can be measured or estimated. Recovering unknown internal states from partial terminal measurements, learning unknown network parameters, and establishing closed-loop control performance are outside the present study. Results are from numerical simulations rather than hardware or field deployment. These limitations motivate future work on <strong>physics-guided dynamics discovery from partial measurements</strong> and trustworthy terminal-equivalent modeling.</p>
+<p>This work is a <strong>journal manuscript under review</strong>. Related published foundations include <a href="{{ '/projects/physics-embedded-charging-control/' | relative_url }}">physics-embedded converter identification and MPC</a> and <a href="{{ '/projects/geometry-aware-dynamics/' | relative_url }}">geometric learning and simulation</a>.</p>
